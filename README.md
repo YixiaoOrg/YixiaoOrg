@@ -14,6 +14,7 @@ Mail: **hi[a]yixiao.org**
 
 
 # 🎖 Honors and Awards
+- *2023.06* Wuxi Tech Vocational College Level First-class Scholarship.
 - *2023.03* Wuxi Tech Vocational College Level Second-class Scholarship. 
 - *2022.06* Wuxi Tech Vocational College Level Third-class Scholarship. 
 - *2020.07* Alibaba Cloud Apsara Clouder Specialized Skill Certification: Implementing API Interface Calls
