@@ -1,5 +1,4 @@
-### hello👋
-- 👋 Hi, I’m @YixiaoOrg
+👋 Hi, I’m @YixiaoOrg
 
 I am currently a sophomore student in a vocational college, and I have the honor of being the class monitor. My passion lies in the open-source movement, and I am eager to contribute to China's open-source cause. I have a solid understanding of modern Chinese history and am also interested in finance and new energy, in addition to my major in computer science.
 
