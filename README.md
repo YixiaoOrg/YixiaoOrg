@@ -1,6 +1,6 @@
 👋 Hi, I’m @YixiaoOrg
 
-Web: **[yixiao.org](yixiao.org)**
+Web: **[yixiao.org](https://yixiao.org)**
 
 Mail: **hi[a]yixiao.org**
 
